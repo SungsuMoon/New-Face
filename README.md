@@ -1,3 +1,3 @@
 # New-Face
 Social application study
-Contributor: Sungsu Moon
+Contributor: Sungsu Moon, Kangmin Yun
